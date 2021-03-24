@@ -1,5 +1,4 @@
 /*
-set-cookie: __cfduid=DisabledOneForAllVisitors; expires=Fri, 23-Apr-22 19:28:03 GMT; path=/; domain=.valishin.ru; HttpOnly; SameSite=Lax; Secure
 Access-Control-Allow-Origin: https://valishin.ru
 Vary: Origin
 Content-Security-Policy: default-src 'self' ; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'strict-dynamic'; worker-src blob: 'self';  base-uri 'self'; object-src 'none';block-all-mixed-content; report-uri https://tsxbar.report-uri.com/r/d/csp/enforce; report-to default
