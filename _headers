@@ -1,0 +1,16 @@
+/*
+Access-Control-Allow-Origin: https://valishin.ru
+Vary: Origin
+Content-Security-Policy: default-src 'self' data: 'unsafe-inline' 'unsafe-eval' *.cloudfront.net; upgrade-insecure-requests; block-all-mixed-content; report-uri https://tsxbar.report-uri.com/r/d/csp/enforce; report-to default
+X-Xss-Protection: 1; mode=block; report=https://tsxbar.report-uri.com/r/d/xss/enforce
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Embedder-Policy: require-corp; report-to="default"
+Cross-Origin-Opener-Policy: same-origin; report-to="default"
+Cross-Origin-Resource-Policy: same-origin
+Strict-Transport-Security: max-age=2592000;
+Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://tsxbar.report-uri.com/a/d/g"}],"include_subdomains":true}
+NEL: {"report_to":"default","max_age":31536000,"include_subdomains":true}
+Expect-CT: max-age=604800, report-uri="https://tsxbar.report-uri.com/r/d/ct/enforce"
+Permissions-Policy:	accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()      
