@@ -1,0 +1,18 @@
+{
+  "name": "hello-web",
+  "description": "Minimal web example",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linebender/druid"
+  },
+  "files": [
+    "hello_web_bg.wasm",
+    "hello_web.js",
+    "hello_web.d.ts"
+  ],
+  "module": "hello_web.js",
+  "types": "hello_web.d.ts",
+  "sideEffects": false
+}
